@@ -5,5 +5,5 @@
 
 ## 📫 How to reach me:
 
-- [E-Mail](reeves.abbas@gmail.com)
+- [E-Mail](mailto:reeves.abbas@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/reeves-abbas-989a03209/)
