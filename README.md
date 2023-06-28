@@ -10,4 +10,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/reeves-abbas-989a03209/)
 - 🌐 [Personal Website](https://reevesabbas.com)
 
-![Reeves's GitHub stats](https://github-readme-stats-git-master-reevesabbas.vercel.app/api?username=reevesabbas&show_icons=true&theme=merko)
+![Reeves's GitHub stats](https://github-stats-git-main-reevesabbas.vercel.app/api?username=reevesabbas&show_icons=true&theme=merko)
+
+![Kirk's GitHub stats](https://github-readme-stats-git-master-kirkvieira.vercel.app/api?username=kirkvieira&show_icons=true&theme=radical)
