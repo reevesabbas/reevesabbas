@@ -9,5 +9,3 @@
 - ✉️ [Email](mailto:reeves.abbas@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/reeves-abbas-989a03209/)
 - 🌐 [Personal Website](https://reevesabbas.com)
-
-![Reeves's GitHub stats](https://github-stats-git-main-reevesabbas.vercel.app/api?username=reevesabbas&show_icons=true&theme=radical)
