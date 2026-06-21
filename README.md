@@ -2,7 +2,7 @@
  
 - ❤️ I love Tailwind CSS, React, and Typescript.
 - 🌱 I’m currently practicing React Native.
-- 💼 I'm currently enrolled in the Software Engineering (BS) Program at the University of Michigan, in my second year.
+- 💼 Bachelors of Science in Software Engineering at the University of Michigan.
 
 ### 📫 How to reach me:
 
